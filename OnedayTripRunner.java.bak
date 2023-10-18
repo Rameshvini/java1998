@@ -1,0 +1,11 @@
+class  OnedayTripRunner
+{
+public static void main(String []args)
+{
+OnedayTrip.place();
+OnedayTrip.cost();
+OnedayTrip.group();
+OnedayTrip.startPoint();
+OnedayTrip.endPoint();
+}
+}

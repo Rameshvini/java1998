@@ -1,0 +1,4 @@
+class GaneshaFestival
+{
+public static void ganeshaFestival();
+}

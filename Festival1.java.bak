@@ -1,0 +1,39 @@
+class Festival1
+{
+public static void food(String foodName)
+{
+System.out.println("name ofthe food:"+foodName);
+}
+public static void decoration(String item,int price ,int quantity)
+{
+	int decorationtotalPrice=price*quantity;
+	System.out.println("name of the item:"+item);
+	System.out.println("Decoration Totalprice:"+decorationtotalPrice);
+}
+public static void shopping(String material)
+{
+	System.out.println("Name Of Material:"+material);
+}
+public static void cracker(String crackerName)
+{
+System.out.println("Name of the cracker:"+crackerName);	
+}
+public static void festivalType(String festivalname)
+{
+	System.out.println("Name of the Festival:"+festivalname);
+}
+public static void festivalMonth(String festivalmonth)
+{
+	System.out.println("festival Month name:"+festivalmonth);
+}
+public static void totalCost(long totalcost)
+{
+	System.out.println(" Festival total Cost:"+totalcost);
+}
+public static void pooja(float time,String flower,String item)
+{
+	System.out.println("Total time:"+time);
+	System.out.println("Name of the flower:"+flower);
+	System.out.println("Name of the item:"+item);
+}
+}

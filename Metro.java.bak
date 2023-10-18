@@ -1,0 +1,17 @@
+class Metro
+{
+public static void station()
+{
+System.out.println(" station information:");
+}
+public static void numStation(int station)
+{
+System.out.println("NUMBER OF STATION "+station);
+}
+public static boolean available()
+{
+	
+// System.out.println("METRO AVAILABLE:");
+return false;
+}
+}

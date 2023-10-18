@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration form </title>
+</head>
+<body>
+<h1>Registration form </h1>
+<form>
+<label for ="name">Name:</label>
+<input type="text" id="name" name= "name" required>
+<label for ="email">Email:</label>
+<input type="text" id="Email" name= "email" required>
+<label for ="Password">Password:</label>
+<input type="Password" id="Password" name= "Password" minlength="8" required>
+<label for ="Confirm Password"> Confirm Password:</label>
+

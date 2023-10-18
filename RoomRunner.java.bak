@@ -1,0 +1,9 @@
+class RoomRunner
+{
+public static void main(String []args)
+{
+Room.name();
+Room.rent(500);
+Room.room(25);
+}
+}

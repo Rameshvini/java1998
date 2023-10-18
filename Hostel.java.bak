@@ -1,0 +1,18 @@
+public Hostel
+{
+ String name;
+ int fees;
+ float rating;
+ short numOfStudent;
+ boolean availability;
+
+ Hostel()
+{
+	System.out.println("Zero arguments");
+} Hostel(String name)
+{
+	this.name=name;
+	System.out.println("Name of the Hostel:"+this.name);
+	)
+}
+	

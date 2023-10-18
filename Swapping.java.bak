@@ -1,0 +1,13 @@
+class Swapping
+{
+public static void swap(int number1,int number2)
+{
+System.out.println("Before swapping:"+number2);
+System.out.println("Before swapping:"+number2);
+number1=number1+number2;
+number2=number1-number2;
+number1=number1+number2;
+System.out.println("After swap:"+number1);
+System.out.println("After swap:"+number2);
+}
+}

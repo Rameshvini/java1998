@@ -1,0 +1,10 @@
+class MetroRunner
+{
+public static void main(String []args)
+{
+Metro.station();
+Metro.numStation(25);
+boolean avail=Metro.available();
+System.out.println(avail);
+}
+}

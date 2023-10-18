@@ -1,0 +1,11 @@
+class  EducationRunner
+{
+public static void main(String []args)
+{
+Education.sslc();
+Education.puc();
+Education.dipolma();
+Education.engineering();
+Education.puc1();
+}
+}

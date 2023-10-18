@@ -1,0 +1,14 @@
+class Festival2Runner
+{
+public static void main(String []args)
+{
+Festival1.food("holige");
+Festival1.decoration("aaaa",44,25);
+Festival1.shopping("rose");
+Festival1.cracker("atom");
+Festival.pooja(10,lotous,25);
+Festival.festivalType("Ganesh festival");
+Festival.festivalMonth("Septmber");
+Festival.totalCost(8000);
+}
+}

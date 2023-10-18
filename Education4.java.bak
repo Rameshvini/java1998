@@ -1,0 +1,7 @@
+class Education4 {
+    static int[] price={5,10,15,20};
+	
+	public static void main(String[] args){
+	  System.out.println(Education4.price[0]);
+	  }
+	  }

@@ -1,0 +1,23 @@
+class OnedayTrip
+{
+public static void place()
+{
+System.out.println("tkfalls");
+}
+public static void cost()
+{
+System.out.println("1000rs");
+}
+public static void group()
+{
+System.out.println("two");
+}
+public static void startPoint()
+{
+System.out.println("Majestic");
+}
+public static void endPoint()
+{
+System.out.println("falls");
+}
+}
